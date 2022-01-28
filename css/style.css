@@ -1,5 +1,5 @@
 h3, h6 {
-    color: rgb(255, 165, 0);
+    color: rgb(255, 115, 0);
 }
 
 body { 
@@ -8,16 +8,12 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-color: rgb(60, 129, 146);
-}
-
-.orange_bg {
-    background-color: rgb(255, 165, 0);
+    background-color: rgba(215, 215, 215);
 }
 
 .div-css {
     margin-bottom: 10px;
-    background-color: rgba(255, 165, 0, 0.1)
+    background-color: rgba(238, 228, 90, 0.281)
 }
 
 img {
