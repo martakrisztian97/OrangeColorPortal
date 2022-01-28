@@ -2,10 +2,26 @@ h3, h6 {
     color: rgb(255, 165, 0);
 }
 
+body { 
+    background: url(../images/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgb(60, 129, 146);
+}
+
 .orange_bg {
     background-color: rgb(255, 165, 0);
 }
 
 .div-css {
     margin-bottom: 10px;
+    background-color: rgba(255, 165, 0, 0.2)
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
